@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["PackBuilderStage","Stages that are reported by the PackBuilder progress callback."]],"struct":[["PackBuilder","A builder for creating a packfile"]]});
